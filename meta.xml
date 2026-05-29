@@ -1,0 +1,12 @@
+<meta>
+    <info author="Daniel Taveras" type="script" name="Login System" description="Sistema de Login MTA SA"/>
+    
+    <script src="server/server.lua" type="server"/>
+    <script src="client/client.lua" type="client"/>
+    
+    <file src="client/login.html"/>
+    <file src="client/assets/style.css"/>
+    <file src="client/assets/script.js"/>
+    
+    <database name="users.db"/>
+</meta>
